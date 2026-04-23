@@ -19,5 +19,5 @@ I would verify the application by retesting its functionality after changes and 
 **What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?**
 Some helpful resources and practices from this project were dependency-check, manual code review, secure coding standards, input validation, secret management, and layered security planning. These are all useful for future development and security work.
 
-Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+**Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?**/n
 I could show future employers this vulnerability assessment as an example of my abilities. I probably spent the most time on this part and demonstrates how well I can review software for security issues and recommend mitigation steps.
